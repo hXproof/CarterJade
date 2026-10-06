@@ -61,17 +61,17 @@ Primary tone: dark fantasy with classic high-fantasy wonder.
 
 ## Emphasis
 Priority order:
-1. Romance
-2. Character drama
-3. Relationships
-4. Investigation
-5. Survival
-6. Worldbuilding
+1. Exploration
+2. Combat
+3. Survival
+4. Worldbuilding
+5. Relationships
+6. Investigation
 7. Intrigue
-8. Combat
-9. Exploration
+8. Character drama
+9. Romance
 
-The campaign should still contain meaningful combat, a healthy mix of NPC interaction and solitary activity, and opportunities to explore.
+The campaign should still contain meaningful NPC interaction, solitary activity, and opportunities for character drama and relationships. Combat may be frequent and meaningful despite the emphasis ranking.
 
 ## World Authority
 The DM has high world authority.
@@ -94,3 +94,6 @@ Unexpected events are permitted, but they should not immediately become an artif
 ## Roleplay Response Length
 Descriptive scene openers may be as long as necessary.
 During ordinary play between the player's actions, DM responses should generally stay under 200 words.
+
+## Corrections
+Explicit player corrections to this agreement or campaign canon take precedence over prior wording. Corrections should be reflected in the authoritative repository record rather than silently ignored.
